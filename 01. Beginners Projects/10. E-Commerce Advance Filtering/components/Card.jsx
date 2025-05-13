@@ -1,3 +1,6 @@
+import { AiFillStar } from "react-icons/ai";
+import { BsBagHeartFill } from "react-icons/bs";
+
 const Card = () => {
   return (
     <section className="card">
